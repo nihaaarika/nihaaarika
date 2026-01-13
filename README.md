@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Nihaaarika 👋
 
-<!--
-**nihaaarika/nihaaarika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Developer | 🤖 AI & Data Enthusiast  
+I love building projects that combine creativity and technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning: Machine Learning, Deep learning, Genrating AI models  
+- 💡 Interested in: AI tools, Data Analytics, Automation  
+- 🎯 Goal: Become a skilled AI / Data Developer  
+
+---
+
+## 🛠 Tech Stack
+- Python & python Libraries 🐍  
+- Deep learning    
+- Machine Learning  
+- Git & GitHub  
+
+---
+
+## 📌 Featured Projects
+Check out my repositories below to see what I'm building 👇  
+More exciting projects coming soon 🚀
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/nihaaarika  
+- Linkedin: www.linkedin.com/in/niharika-kanojia-4b896731b
+
+
+
+---
+
+✨ *Building, learning, and improving every day.*
+
