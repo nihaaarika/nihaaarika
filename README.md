@@ -29,6 +29,7 @@ More exciting projects coming soon 🚀
 ## 📫 Connect With Me
 - GitHub: https://github.com/nihaaarika  
 - Linkedin: www.linkedin.com/in/niharika-kanojia-4b896731b
+- Email: nhrkk30@gmail.com
 
 
 
