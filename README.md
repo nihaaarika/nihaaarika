@@ -68,4 +68,6 @@ Current areas of improvement:
 [GitHub](https://github.com/nihaaarika) | [LinkedIn](https://www.linkedin.com/in/niharika-kanojia-4b896731b) | [Email](mailto:nhrkk30@gmail.com)
 ---
 
-Consistent learning. Practical building. Continuous improvement.
+
+
+<sub>Focused on learning, building real-world solutions, and growing as an AI and Data professional.</sub>
