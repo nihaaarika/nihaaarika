@@ -65,10 +65,7 @@ Current areas of improvement:
 
 ## Connect
 
-- GitHub: https://github.com/nihaaarika  
-- LinkedIn: https://www.linkedin.com/in/niharika-kanojia-4b896731b  
-- Email: nhrkk30@gmail.com  
-
+[GitHub](https://github.com/nihaaarika) | [LinkedIn](https://www.linkedin.com/in/niharika-kanojia-4b896731b) | [Email](mailto:nhrkk30@gmail.com)
 ---
 
 Consistent learning. Practical building. Continuous improvement.
