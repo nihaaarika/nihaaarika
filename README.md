@@ -1,5 +1,5 @@
 
-# Niharika
+# Niharika kanojia
 
 Student | AI & Data Enthusiast | Python Developer  
 
