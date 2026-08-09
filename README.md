@@ -82,17 +82,3 @@ FastAPI, Pathway, Hugging Face, Google Gemini API
 - Deployment of AI models using Streamlit and Gradio
 
 ---
-
-## GitHub Stats
-
-![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihaaarika&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihaaarika&layout=compact&hide_border=true)
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/niharika-kanojia-4b896731b) · [Email](mailto:nhrkk30@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niharika-kanojia-4b896731b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nhrkk30@gmail.com)
