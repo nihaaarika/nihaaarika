@@ -48,12 +48,15 @@ Visit my [repositories](https://github.com/nihaaarika?tab=repositories) for the 
 Python, SQL (learning), Git and GitHub
  
 - **AI & Data**
+
 Machine Learning, Deep Learning (fundamentals), Natural Language Processing, Data Analysis, Data Visualization
  
 - **Libraries & Frameworks**
+
 NumPy, Pandas, Matplotlib, Scikit-learn, Streamlit, Gradio, LangChain
  
 - **Tools & Platforms**
+
 FastAPI, Pathway, Hugging Face, Google Gemini API
  
 ---
