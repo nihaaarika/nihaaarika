@@ -64,10 +64,6 @@ FastAPI, Pathway, Hugging Face, Google Gemini API
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/niharika-kanojia-4b896731b) · [Email](mailto:nhrkk30@gmail.com)
-
-## Connect
-
 [GitHub](https://github.com/nihaaarika) | [LinkedIn](https://www.linkedin.com/in/niharika-kanojia-4b896731b) | [Email](mailto:nhrkk30@gmail.com)
 ---
 
