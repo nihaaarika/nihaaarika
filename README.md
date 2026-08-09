@@ -43,16 +43,16 @@ Visit my [repositories](https://github.com/nihaaarika?tab=repositories) for the 
 
 ## Technical Skills
  
-**Languages & Core Tools**
+- **Languages & Core Tools**
 Python, SQL (learning), Git and GitHub
  
-**AI & Data**
+- **AI & Data**
 Machine Learning, Deep Learning (fundamentals), Natural Language Processing, Data Analysis, Data Visualization
  
-**Libraries & Frameworks**
+- **Libraries & Frameworks**
 NumPy, Pandas, Matplotlib, Scikit-learn, Streamlit, Gradio, LangChain
  
-**Tools & Platforms**
+- **Tools & Platforms**
 FastAPI, Pathway, Hugging Face, Google Gemini API
  
 ---
