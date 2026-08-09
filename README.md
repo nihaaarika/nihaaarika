@@ -43,7 +43,8 @@ Visit my [repositories](https://github.com/nihaaarika?tab=repositories) for the 
 
 ## Technical Skills
  
-- **[Languages & Core Tools]**
+- **Languages & Core Tools**
+
 Python, SQL (learning), Git and GitHub
  
 - **AI & Data**
