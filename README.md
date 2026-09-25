@@ -1,4 +1,4 @@
-# Niharika
+# Niharika!
 
 **AI & Data Enthusiast | Python Developer | Building ML, Data & Automation Solutions**
 
