@@ -1,10 +1,16 @@
-# Niharika!
+<div align="center">
 
-**AI & Data Enthusiast | Python Developer | Building ML, Data & Automation Solutions**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6C63FF&height=200&section=header&text=Niharika&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=620&lines=AI+%26+Data+Enthusiast;Python+Developer;Building+ML%2C+Data+%26+Automation+Solutions" alt="Typing intro" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niharika-kanojia-4b896731b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nhrkk30@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nihaaarika)
+
+</div>
 
 I am a technology student focused on building practical, real-world solutions using Artificial Intelligence, Machine Learning, and Data Analytics. I enjoy turning ideas into working systems that combine data, automation, and intelligent decision-making. My goal is to grow into a proficient AI/Data professional through continuous, hands-on learning and project-building.
 
@@ -42,23 +48,19 @@ Visit my [repositories](https://github.com/nihaaarika?tab=repositories) for the 
 ---
 
 ## Technical Skills
- 
-- **Languages & Core Tools**
 
+**Languages & Core Tools**
 Python, SQL (learning), Git and GitHub
- 
-- **AI & Data**
 
+**AI & Data**
 Machine Learning, Deep Learning (fundamentals), Natural Language Processing, Data Analysis, Data Visualization
- 
-- **Libraries & Frameworks**
 
+**Libraries & Frameworks**
 NumPy, Pandas, Matplotlib, Scikit-learn, Streamlit, Gradio, LangChain
- 
-- **Tools & Platforms**
 
+**Tools & Platforms**
 FastAPI, Pathway, Hugging Face, Google Gemini API
- 
+
 ---
 
 ## Current Learning Focus
@@ -69,3 +71,5 @@ FastAPI, Pathway, Hugging Face, Google Gemini API
 - Deployment of AI models using Streamlit and Gradio
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0A66C2&height=100&section=footer" width="100%" />
