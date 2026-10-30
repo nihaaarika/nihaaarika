@@ -10,6 +10,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nhrkk30@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nihaaarika)
 
+<img src="runner.svg" width="100%" />
+
 </div>
 
 I am a technology student focused on building practical, real-world solutions using Artificial Intelligence, Machine Learning, and Data Analytics. I enjoy turning ideas into working systems that combine data, automation, and intelligent decision-making. My goal is to grow into a proficient AI/Data professional through continuous, hands-on learning and project-building.
@@ -18,11 +20,20 @@ I am a technology student focused on building practical, real-world solutions us
 
 ## About Me
 
-- Building end-to-end AI and data applications, from data pipelines to deployed interfaces
-- Currently deepening my knowledge of Machine Learning, Deep Learning, and Generative AI
-- Comfortable working across the stack: data processing, model integration, and Streamlit/Gradio-based front ends
-- Focused on writing clean, readable, and maintainable code
-- Open to collaboration on AI, data, and Python-based projects
+> **I turn data into decisions and ideas into working systems.**
+
+I'm a technology student who learns by building. Every project I take on goes from raw data to a live, usable interface, and each one teaches me something the last one didn't.
+
+**What I do**
+
+- 🔹 **Build end-to-end AI applications**, from data pipelines to deployed interfaces
+- 🔹 **Work across the stack**: data processing, model integration, and Streamlit/Gradio front ends
+- 🔹 **Write clean, readable, maintainable code** that others can pick up easily
+- 🔹 **Go deeper every day** into Machine Learning, Deep Learning, and Generative AI
+
+**Let's connect**
+
+I'm open to collaborating on AI, data, and Python-based projects. If you have an idea worth building, I'd love to hear it.
 
 ---
 
