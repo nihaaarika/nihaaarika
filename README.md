@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6C63FF&height=200&section=header&text=Niharika&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=620&lines=AI+%26+Data+Enthusiast;Python+Developer;Building+ML%2C+Data+%26+Automation+Solutions" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=620&lines=AI+%26+Data+Enthusiast;Building+ML%2C+Data+%26+Automation+Solutions" alt="Typing intro" />
 
 <br/>
 
